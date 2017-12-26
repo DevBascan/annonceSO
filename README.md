@@ -10,7 +10,7 @@ Outil de création : [Mobirise](https://mobirise.com/fr/)
 
 ## Conception et mise en oeuvre
 
-C'est grâce à cet outil (librement mis à disposition) que la personnalisation de l'habillage graphique de cette page a été développée par Vincent Thizeau -> http://acver.fr/8s0
+C&apos;est grâce à cet outil (librement mis à disposition) que la personnalisation de l&apos;habillage graphique de cette page a été développée par Vincent Thizeau -> http://acver.fr/8s0
 
 ## Compatibilité
 
